@@ -3,3 +3,4 @@ We are blasting off to international space station
 We are docked in the Space station and ready to for sling to mars
 We are into the mars orbit and ready for descent
 We have successfully landed on Mars
+We are collecting samples
